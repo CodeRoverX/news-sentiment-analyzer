@@ -1,0 +1,19 @@
+#virtual environment
+/.venv/
+
+#python bytecode files
+*.pyc
+*.pyo
+
+#envs
+.env
+
+#logs
+*.log
+
+#jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# IDE config files
+.vscode/
+.idea/
